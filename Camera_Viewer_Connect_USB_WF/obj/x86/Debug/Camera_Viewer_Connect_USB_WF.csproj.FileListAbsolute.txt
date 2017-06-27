@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\Camera_Viewer_Connect_USB_WF.exe.config
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\Camera_Viewer_Connect_USB_WF.exe
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\Camera_Viewer_Connect_USB_WF.pdb
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\OzekiSDK.dll
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.MainForm.resources
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.Properties.Resources.resources
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.exe
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\obj\x86\Debug\Camera_Viewer_Connect_USB_WF.pdb
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.dll
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.presentation.dll
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.pdb
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.xml
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.presentation.pdb
+C:\Users\lucas\Documents\Ozeki\Ozeki SDK\Examples\Camera\02_USBCamera\01_Viewer\Camera_Viewer_Connect_USB_WF\Camera_Viewer_Connect_USB_WF\bin\Debug\zxing.presentation.xml
